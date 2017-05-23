@@ -3,3 +3,5 @@
 derby.log
 target
 .classpath
+.idea
+transaction.iml
